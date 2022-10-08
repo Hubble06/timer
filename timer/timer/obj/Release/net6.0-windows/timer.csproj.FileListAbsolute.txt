@@ -1,0 +1,17 @@
+C:\Users\DICCE\source\repos\timer\timer\bin\Release\net6.0-windows\timer.exe
+C:\Users\DICCE\source\repos\timer\timer\bin\Release\net6.0-windows\timer.deps.json
+C:\Users\DICCE\source\repos\timer\timer\bin\Release\net6.0-windows\timer.runtimeconfig.json
+C:\Users\DICCE\source\repos\timer\timer\bin\Release\net6.0-windows\timer.dll
+C:\Users\DICCE\source\repos\timer\timer\bin\Release\net6.0-windows\timer.pdb
+C:\Users\DICCE\source\repos\timer\timer\obj\Release\net6.0-windows\timer.csproj.AssemblyReference.cache
+C:\Users\DICCE\source\repos\timer\timer\obj\Release\net6.0-windows\timer.Form1.resources
+C:\Users\DICCE\source\repos\timer\timer\obj\Release\net6.0-windows\timer.csproj.GenerateResource.cache
+C:\Users\DICCE\source\repos\timer\timer\obj\Release\net6.0-windows\timer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DICCE\source\repos\timer\timer\obj\Release\net6.0-windows\timer.AssemblyInfoInputs.cache
+C:\Users\DICCE\source\repos\timer\timer\obj\Release\net6.0-windows\timer.AssemblyInfo.cs
+C:\Users\DICCE\source\repos\timer\timer\obj\Release\net6.0-windows\timer.csproj.CoreCompileInputs.cache
+C:\Users\DICCE\source\repos\timer\timer\obj\Release\net6.0-windows\timer.dll
+C:\Users\DICCE\source\repos\timer\timer\obj\Release\net6.0-windows\refint\timer.dll
+C:\Users\DICCE\source\repos\timer\timer\obj\Release\net6.0-windows\timer.pdb
+C:\Users\DICCE\source\repos\timer\timer\obj\Release\net6.0-windows\timer.genruntimeconfig.cache
+C:\Users\DICCE\source\repos\timer\timer\obj\Release\net6.0-windows\ref\timer.dll
